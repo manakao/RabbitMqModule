@@ -1,5 +1,5 @@
 {
-  "name": "thomasvargiu/rabbitmq-module",
+  "name": "manakao/rabbitmq-module",
   "description": "Integrates php-amqplib with Zend Framework 2 and RabbitMq",
   "type": "library",
   "minimum-stability": "stable",
